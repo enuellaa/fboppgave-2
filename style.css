@@ -1,0 +1,30 @@
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+
+.flex-item {
+    color: black;
+    padding: 10px;
+    text-align: center; 
+    margin: 8px;
+    text-decoration: black;
+    width: 100px;
+}
+.item-1:hover {
+    background-color: lightgreen;
+} 
+.item-2:hover {
+    background-color: lightgreen;
+} 
+.item-3:hover {
+    background-color: lightgreen;
+} 
+.item-4:hover {
+    background-color: lightgreen;
+} 
+.item-5:hover {
+    background-color: lightgreen;
+} 
